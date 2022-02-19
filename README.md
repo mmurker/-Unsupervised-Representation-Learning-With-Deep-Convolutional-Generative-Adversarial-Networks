@@ -1,3 +1,4 @@
 # Unsupervised-Representation-Learning-With-Deep-Convolutional-Generative-Adversarial-Networks
 Competitive generative networks are based on a game theory scenario where the generative network must compete with the decision-making network. Contestant generative networks (GANs) examine the training collection and learn probability distributions and can generate more examples based on these probability distributions. GANs are used for masking backgrounds, model transfer and rendering of non-existent images, etc. enables applications such as However, the fact that the images created are becoming more and more realistic raises the concerns of people's privacy. In the creation of new images in this application; Deep Convolutional Generative Networks (DCGAN) were used, which produced more successful results on images.
+https://colab.research.google.com/drive/1WgGMRIVjivhWlAkNOvGdrCDfxh9UicjU?usp=sharing
 For your questions, comments and suggestions muhammed.urker@gmail.com
